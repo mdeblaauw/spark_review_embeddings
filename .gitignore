@@ -1,0 +1,12 @@
+# python virtual env
+venv
+
+# AWS Glue Pyspark generated files
+dist/
+libs/
+
+# Vscode setup
+.vscode/
+
+.DS_Store
+__pycache__
